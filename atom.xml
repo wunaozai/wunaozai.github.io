@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wunaozai.com/"/>
-  <updated>2018-12-02T12:57:10.990Z</updated>
+  <updated>2018-12-02T12:59:47.213Z</updated>
   <id>http://blog.wunaozai.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="http://blog.wunaozai.com/2018/12/02/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/"/>
     <id>http://blog.wunaozai.com/2018/12/02/个人简介/</id>
     <published>2018-12-02T12:55:53.000Z</published>
-    <updated>2018-12-02T12:57:10.990Z</updated>
+    <updated>2018-12-02T12:59:47.213Z</updated>
     
-    <content type="html"><![CDATA[<p>###关于我###</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h3>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;###关于我###&lt;/p&gt;
-
+        &lt;h3 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h3&gt;
       
     
     </summary>
